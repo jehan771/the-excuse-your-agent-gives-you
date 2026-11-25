@@ -1,0 +1,1 @@
+{"description":"One line, under 200 characters: the excuse an AI agent gives its human after shipping a bug. Entry for make.fun.","license":"MIT","main":"main.ts","name":"the-excuse-your-agent-gives-you","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
